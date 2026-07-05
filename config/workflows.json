@@ -1,0 +1,37 @@
+{
+  "flashcards": {
+    "prompt": "generate-flashcards.md",
+    "output_folder": "revision",
+    "output_file": "flashcards.md"
+  },
+  "summary": {
+    "prompt": "summarize.md",
+    "output_folder": "summaries",
+    "output_file": "summary.md"
+  },
+  "biomedical": {
+    "prompt": "explainer.md",
+    "output_folder": "biomedical",
+    "output_file": "biomedical-notes.md"
+  },
+  "project": {
+    "prompt": "generate-project.md",
+    "output_folder": "projects",
+    "output_file": "project.md"
+  },
+  "organize": {
+    "prompt": "organize-note.md",
+    "output_folder": "inbox",
+    "output_file": "organized.md"
+  },
+  "research": {
+    "prompt": "research.md",
+    "output_folder": "research",
+    "output_file": "research-notes.md"
+  },
+  "journal": {
+    "prompt": "journal.md",
+    "output_folder": "journal",
+    "output_file": "journal.md"
+  }
+}

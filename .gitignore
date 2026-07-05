@@ -1,0 +1,21 @@
+# Obsidian (optional local settings)
+.obsidian/workspace.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Python (future use)
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
