@@ -7,13 +7,13 @@ A personal, AI-powered knowledge management system built to organize  studies, n
 
 AI Second Brain takes raw text or uploaded files (PDF / DOCX / TXT) and runs them through AI-powered workflows to instantly generate:
 
-- 📚 **Flashcards** — spaced-repetition Q&A pairs from any text
-- 📝 **Summaries** — concise breakdowns of long material
-- 🩺 **Explanations** — plain-language explainers with formulas and clinical context
-- 🛠️ **Project Plans** — structured phases, tools, risks, and timelines from raw ideas
-- 🗂️ **Note Organization** — cleans and classifies messy notes for my Obsidian vault
-- 🔬 **Research Analysis** — summarizes findings, methodology, strengths/limitations
-- 📔 **Journaling** — reflective prompts and pattern-spotting from journal entries
+- **Flashcards** — spaced-repetition Q&A pairs from any text
+- **Summaries** — concise breakdowns of long material
+- **Explanations** — plain-language explainers with formulas and clinical context
+- **Project Plans** — structured phases, tools, risks, and timelines from raw ideas
+- **Note Organization** — cleans and classifies messy notes for my Obsidian vault
+- **Research Analysis** — summarizes findings, methodology, strengths/limitations
+- **Journaling** — reflective prompts and pattern-spotting from journal entries
 
 Every result is automatically saved as a Markdown file so it slots straight into my Obsidian vault.
 
