@@ -1,7 +1,7 @@
 import streamlit as st
 
 def show_biomedical():
-    st.header("🩺 Biomedical Explainer")
+    st.header(" Biomedical Explainer")
 
     topic = st.text_input(
         "Biomedical Topic",

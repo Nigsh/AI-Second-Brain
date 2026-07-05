@@ -8,7 +8,14 @@ def process(task, text):
 
     workflows = load_workflows()
 
-    workflow = workflows[task]
+    task_key = task.strip().lower()
+
+    if task_key not in workflows:
+        raise ValueError(
+            f"Unknown task '{task}'. Available tasks: {list(workflows.keys())}"
+        )
+
+    workflow = workflows[task_key]
 
     system_prompt = load_prompt(
         workflow["prompt"]

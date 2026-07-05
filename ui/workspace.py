@@ -3,14 +3,14 @@ from ai.router import process
 from ai.file_loader import read_file
 
 def show_workspace():
-    st.title("🧠 AI Second Brain Workspace")
+    st.title(" 🌦 AI Second Brain Workspace")
 
     task = st.selectbox(
         "Choose Workflow",
         [
             "flashcards",
             "summary",
-            "biomedical",
+            "Biomedical",
             "project",
             "organize",
             "research",
@@ -32,7 +32,7 @@ def show_workspace():
 
     show_output = col1.checkbox("Show output", value=True)
 
-    if st.button("🚀 Process"):
+    if st.button("✈️ Process"):
         text = ""
 
         # If file uploaded → convert to text
@@ -51,5 +51,5 @@ def show_workspace():
         st.success("Done!")
 
         if show_output:
-            st.markdown("### 🧠 Output")
+            st.markdown("###  Output")
             st.write(result)
