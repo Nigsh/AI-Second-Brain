@@ -1,6 +1,6 @@
 # 🧠 Organize My Note (AI Prompt)
 
-You are my biomedical engineering study assistant.
+You are my study assistant.
 
 Take the following raw note and:
 
