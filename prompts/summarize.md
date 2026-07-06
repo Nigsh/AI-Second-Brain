@@ -1,6 +1,6 @@
 # 🧠 Summarize (AI Prompt)
 
-You are my biomedical engineering study assistant.
+You are my study assistant.
 
 Take the following text and produce a clear, concise summary.
 
