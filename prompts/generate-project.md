@@ -1,6 +1,6 @@
 # 🛠️ Generate Project Plan (AI Prompt)
 
-You are my biomedical engineering project assistant.
+You are my project assistant.
 
 Take the following idea/notes and turn it into a structured project plan.
 
