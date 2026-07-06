@@ -1,6 +1,6 @@
 # 🧠 Generate Flashcards (AI Prompt)
 
-You are my biomedical engineering study assistant.
+You are my  study assistant.
 
 Take the following text and turn it into flashcards for spaced-repetition revision.
 
